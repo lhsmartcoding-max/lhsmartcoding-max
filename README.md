@@ -38,7 +38,7 @@ I blend engineering prowess with design sensibility to build robust, beautiful a
 - **Version Control** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | **Collaboration** ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)  
 - **Performance & Security** – Optimization techniques, error handling, and best practices for production-ready code.  
 
-![Skills Overview](https://img.shields.io/badge/Experience-8+ Years-brightgreen?style=flat-square) ![Projects](https://img.shields.io/badge/Projects-20+-blue?style=flat-square)  
+![Experience: 8+ Years](https://img.shields.io/badge/Experience-8%2B%20Years-brightgreen?style=flat-square) ![Projects: 20+](https://img.shields.io/badge/Projects-20%2B-blue?style=flat-square)  
 
 ---
 
