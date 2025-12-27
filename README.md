@@ -1,6 +1,6 @@
 # Hi, I'm Hakimi Luqman 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Innovative+Engineer+&+Designer)  
+![Profile Banner](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)  
 *Passionate Web Developer | AI Enthusiast | Crafting Seamless Digital Experiences*
 
 ---
@@ -11,6 +11,8 @@ I'm a seasoned software engineer with **over 8 years of hands-on experience** in
 From building large-scale e-commerce platforms to SaaS products and startup innovations, I've led feature enhancements, performance optimizations, and reliable deployments. My focus? Delivering user-centric designs that are not only functional but visually stunning and intuitive.  
 
 As a designer at heart, I prioritize UI/UX improvements to create engaging interfaces, while ensuring code quality, security, and scalability as an engineer. Let's collaborate to turn ideas into impactful realities!  
+
+![Developer Illustration](https://camo.githubusercontent.com/38e41dfabdad680dbd9fa6b375e7e52f1a52a84d0b06918b23bef033689d3d6d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c384b36326954446b7a4758362f67697068792e676966)
 
 - 🔗 [LinkedIn](https://linkedin.com/in/hakimi-luqman) | [Portfolio](https://hakimil.com) | [Email](mailto:hakimi@luqman.dev)  
 - 📍 Based in [Your Location] | Open to remote opportunities worldwide  
